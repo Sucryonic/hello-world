@@ -1,2 +1,4 @@
 # hello-world
-This repository is for show
+This is a repository
+
+I am Sucryonic
